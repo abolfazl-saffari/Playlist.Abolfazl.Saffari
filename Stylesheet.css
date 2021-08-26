@@ -1,0 +1,72 @@
+img {
+    width: 50px;
+    height: 50px;
+    perspective: 1px;
+    border-radius: 2px;
+}
+
+span {
+    vertical-align: center;
+}
+
+.Image {
+    float: left;
+}
+
+.icon {
+    color: #c5c3c3;
+    float: right;
+    margin-right: 1050px;
+    margin-top: 15px;
+}
+
+.First-song-margin {
+    margin-top: 33px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Songs-margin {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Text {
+    font-size: 17px;
+    text-align: left;
+    color: #1B1B1B;
+    width: 30%;
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding: 4px;
+}
+
+.Second-text-color {
+    font-size: 15px;
+    color: gray;
+    text-align: left;
+    width: 30%;
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.Empty-space-maker {
+    clear: both;
+}
+
+.Empty-space-maker-2 {
+    margin-top: 5px;
+}
+
+.Head {
+    color: #1B1B1B;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
